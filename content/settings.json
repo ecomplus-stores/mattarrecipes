@@ -1,23 +1,23 @@
 {
-  "store_id": 1190,
-  "name": "mattarrecipes",
-  "domain": "mattarrecipes.netlify.app",
-  "short_name": "mattarrecipes",
-  "description": "mattarrecipes",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "domain": "mattarrecipes.store.app",
+  "currency_symbol": "R$",
+  "primary_color": "#004aad",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/id_visual_mattar_logo_200725_logo-03-7.png",
+  "name": "Mattar Recipes",
+  "short_name": "mattarrecipes",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png",
+  "country_code": "BR",
+  "secondary_color": "#ff8800",
+  "icon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png",
+  "store_id": 1190,
+  "description": "Xaropes artesanais para um drink rápido e com mais sabor. Gengibre, limão siciliano, maracujá, jabuticaba, pitaya e muito mais. Faça você mesmo, o melhor moscow mule, gin tônica, caipirinha e vários outros coquetéis clássicos.",
+  "large_icon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png"
 }
