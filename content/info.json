@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Entregamos para toda a BH"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Várias formas de pagamento."
   },
   "exchange": {
     "show": true,
