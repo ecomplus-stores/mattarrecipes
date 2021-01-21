@@ -25,13 +25,13 @@
       "limit": 5,
       "page": 1,
       "sort": "sales",
-      "title": "",
+      "title": "Produtos mais vendidos por aqui",
       "headless": false
     },
     {
       "type": "page-title",
       "title": "Nova loja da Mattar Recipes",
-      "description": "Compre seus xaropes, bitters ou especiarias pagando online e recebendo no conforto da sua casa ou retirando no nosso endereço."
+      "description": "Compre seus xaropes, bitters ou especiarias pagando online e recebendo no conforto da sua casa ou, se preferir, retirando no nosso endereço."
     }
   ]
 }
