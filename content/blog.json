@@ -1,14 +1,16 @@
 {
-  "title": "Blog",
-  "meta_title": "Blog",
-  "meta_description": "Blog",
+  "title": "Comunidade Mattar Recipes",
+  "meta_title": "Comunidade Mattar Recipes",
+  "meta_description": "Conheça nosso blog, aqui você verá curiosidades, receitas e atualizações sobre o mundo dos drinks, acompanhe!",
   "sections": [
     {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Comunidade Mattar Recipes",
+      "description": "Conheça nosso blog e fique por dentro de tudo que acontece no mundo dos drinks, novidades, receitas, promoções e muito mais."
     },
     {
       "type": "blog",
