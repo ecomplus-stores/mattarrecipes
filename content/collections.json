@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Coleções da Mattar Recipes",
+      "description": "Aqui você encontra todas as coleções dos produtos da Mattar Recipes."
     },
     {
       "type": "document-banner",
