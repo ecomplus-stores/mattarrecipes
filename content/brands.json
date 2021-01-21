@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Marcas da Mattar Recipes",
+      "description": "Aqui você encontra todas as marcas dos produtos da empresa Mattar Recipes."
     },
     {
       "type": "document-banner",
