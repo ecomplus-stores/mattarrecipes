@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para toda a BH"
+    "text": "Entregamos para todo o Brasil"
   },
   "installments": {
     "show": true,
-    "text": "Várias formas de pagamento."
+    "text": "Aceitamos cartão, boleto ou Pix"
   },
   "exchange": {
     "show": true,
-    "text": "Garrafas Retornáveis! Traga sua garrafa e ganhe desconto."
+    "text": "Garrafas Retornáveis! Devolva sua garrafa e ajude o meio ambiente."
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Acompanhe as promoções nas nossas redes sociais."
   }
 }
