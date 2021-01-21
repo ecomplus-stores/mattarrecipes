@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Categorias de produtos da Mattar Recipes",
+      "description": "Aqui você encontra todas as categorias de produtos vendidos pela empresa Mattar Recipes. Xaropes, bitters, especiarias, kits e muito mais."
     },
     {
       "type": "document-banner",
