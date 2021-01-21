@@ -1,15 +1,24 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "Mattar Recipes",
+    "text": "Xaropes, bitters, especiarias e muito mais para trazer complexidade aos drinks de maneira simples e com mais sabor. Gengibre, limão siciliano, maracujá, amora, pitaya e muito mais. Faça você mesmo, o melhor moscow mule, gin tônica, caipirinha e vários outros coquetéis clássicos, e claro também crie os seus."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "/pages/fale-conosco",
+        "text": "Fale Conosco"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre-nos"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
@@ -32,14 +41,14 @@
     "boleto": true,
     "aura": false,
     "banrisul": false,
-    "elo": true,
+    "elo": false,
     "hipercard": false,
     "hsbc": false,
     "bradesco": true,
-    "santander": false,
+    "santander": true,
     "mastercard": true,
     "citibank": false,
-    "mais": false,
+    "mais": true,
     "itau": true
   },
   "credits": ""
