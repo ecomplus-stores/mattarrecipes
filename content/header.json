@@ -1,13 +1,35 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossa Black Week, descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Bem vindo à nova loja da Mattar Recipes! Produtos entregues em todo o Brasil.",
+    "link": "",
+    "background": "#000000",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
         "title": "Sobre nós",
         "link": "/pages/sobre-nos"
+      },
+      {
+        "title": "Dicas de Receitas",
+        "link": "/pages/receitas"
+      },
+      {
+        "title": "Tenho um bar",
+        "link": "/pages/fornecimento-b2b"
+      },
+      {
+        "title": "Tenho uma distribuidora",
+        "link": "/pages/fornecimento-revenda"
+      },
+      {
+        "title": "Nossos parceiros",
+        "link": "/pages/nossos-parceiros"
+      },
+      {
+        "title": "Trabalhe Conosco",
+        "link": "/pages/trabalhe-conosco"
       }
     ],
     "phone_wpp": true,
