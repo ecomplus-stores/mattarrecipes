@@ -8,6 +8,10 @@
       "description": "Compre seus xaropes, bitters ou especiarias pagando online e recebendo no conforto da sua casa ou, se preferir, retirando no nosso endereço."
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "banner-slider",
       "autoplay": 4000,
       "slides": [
@@ -23,10 +27,6 @@
           "img": "/img/uploads/rect859.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
