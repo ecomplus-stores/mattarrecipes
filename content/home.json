@@ -20,13 +20,13 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "page-title",
       "title": "Nova loja da Mattar Recipes",
       "description": "Compre seus xaropes, bitters ou especiarias pagando online e recebendo no conforto da sua casa ou, se preferir, retirando no nosso endereço."
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
