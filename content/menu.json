@@ -1,6 +1,9 @@
 {
   "sort_categories": [
-    "xaropes"
+    "xaropes",
+    "especiarias",
+    "espumas",
+    "itensparadrinks"
   ],
   "phone_wpp": true,
   "socials": true
