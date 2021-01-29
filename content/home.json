@@ -9,15 +9,15 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/full-banner-loja-1-.jpg",
-          "mobile_img": "/img/uploads/_mg_0804-1-.png"
-        },
-        {
-          "start": "2021-01-29T17:34:51.015Z",
-          "end": "2021-01-29T17:34:51.049Z",
           "img": "/img/uploads/capa-site-mr-1-.png",
           "link": "https://mattarrecipes.netlify.app/xaropes",
           "mobile_img": "/img/uploads/capa-site-mr-1-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/full-banner-loja-1-.jpg",
+          "mobile_img": "/img/uploads/_mg_0804-1-.png"
         }
       ]
     },
