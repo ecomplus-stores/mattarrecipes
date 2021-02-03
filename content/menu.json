@@ -1,10 +1,11 @@
 {
   "sort_categories": [
     "xaropes",
+    "bitter",
     "especiarias",
+    "kitdrink",
     "espumas",
-    "itensparadrinks",
-    "kitdrink"
+    "itensparadrinks"
   ],
   "phone_wpp": true,
   "socials": true
