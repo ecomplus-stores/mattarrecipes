@@ -9,6 +9,14 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/capa-site-mr-6-.png",
+          "link": "https://mattarrecipes.netlify.app/xaropedepitaya",
+          "alt": "Promoção Xarope de Pitaya",
+          "mobile_img": "/img/uploads/capa-site-mr-6-.png"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/capa-site-mr-1-.png",
           "link": "https://mattarrecipes.netlify.app/xaropes",
           "mobile_img": "/img/uploads/capa-site-mr-1-.png"
@@ -16,22 +24,22 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/full-banner-loja-1-.jpg",
-          "mobile_img": "/img/uploads/full-banner-loja-1-.jpg"
+          "img": "/img/uploads/capa-site-mr-2-.png",
+          "link": "https://mattarrecipes.netlify.app/xaropedetangerina",
+          "mobile_img": "/img/uploads/capa-site-mr-2-.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/capa-site-mr-2-.png",
-          "link": "https://mattarrecipes.netlify.app/xaropedetangerina",
-          "mobile_img": "/img/uploads/capa-site-mr-2-.png"
+          "img": "/img/uploads/full-banner-loja-1-.jpg",
+          "mobile_img": "/img/uploads/full-banner-loja-1-.jpg"
         }
       ]
     },
     {
       "type": "page-title",
       "title": "Nova loja da Mattar Recipes",
-      "description": "Compre seus xaropes, bitters ou especiarias pagando online e recebendo no conforto da sua casa ou, se preferir, retirando no nosso endereço."
+      "description": "Compre xaropes, bitters, especiarias e mais, pagando online e recebendo em casa."
     },
     {
       "type": "info-bar",
