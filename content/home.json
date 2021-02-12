@@ -47,6 +47,12 @@
       "headless": false
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
       "type": "page-title",
       "title": "                                                             Sukkar Xaroperia",
       "description": "Faça seus drinks com mais praticidade usando nossos xaropes, bitters, especiarias e mais."
