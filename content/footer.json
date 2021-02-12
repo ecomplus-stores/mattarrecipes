@@ -12,7 +12,8 @@
         "url": "/pages/sobre-nos"
       },
       {
-        "text": "Blog de Receitas"
+        "text": "Blog de Receitas",
+        "url": "/pages/blog-de-receitas"
       }
     ]
   },
