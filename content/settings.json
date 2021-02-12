@@ -1,7 +1,7 @@
 {
   "domain": "sukkarxaroperia.store.app",
   "currency_symbol": "R$",
-  "primary_color": "#f0f0f0",
+  "primary_color": "#792222",
   "theme": {
     "bootswatch": "spacelab",
     "custom": "_"
@@ -15,7 +15,7 @@
   "mini_logo": "",
   "favicon": "/img/uploads/id_visual_icone2-05.jpg",
   "country_code": "BR",
-  "secondary_color": "#792222",
+  "secondary_color": "#f0f0f0",
   "icon": "/img/uploads/sukkar__logo-verm.png",
   "store_id": 1190,
   "description": "Leve a facilidade de preparar bons drinks para qualquer lugar e momento com nossos xaropes, bitters, sprays e sachês de especiarias.",
