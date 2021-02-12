@@ -1,7 +1,7 @@
 {
-  "title": "Comunidade Mattar Recipes",
-  "meta_title": "Comunidade Mattar Recipes",
-  "meta_description": "Conheça nosso blog, aqui você verá curiosidades, receitas e atualizações sobre o mundo dos drinks, acompanhe!",
+  "title": "Drinks Sukkar",
+  "meta_title": "Receitas de Drinks da Sukkar",
+  "meta_description": "Conheça nosso blog de receitas, aqui você verá algumas das receitas que você pode fazer com o que tem em casa e ainda assim preparar drinks super elaborados.",
   "sections": [
     {
       "type": "breadcrumbs",
@@ -9,8 +9,8 @@
     },
     {
       "type": "page-title",
-      "title": "Comunidade Mattar Recipes",
-      "description": "Conheça nosso blog e fique por dentro de tudo que acontece no mundo dos drinks, novidades, receitas, promoções e muito mais."
+      "title": "Receitas de Drinks Sukkar",
+      "description": "Conheça nosso blog de receitas, aqui você verá algumas das receitas que você pode fazer com o que tem em casa e ainda assim preparar drinks super elaborados."
     },
     {
       "type": "blog",
