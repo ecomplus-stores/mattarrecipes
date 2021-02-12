@@ -1,23 +1,23 @@
 {
-  "domain": "mattarrecipes.store.app",
+  "domain": "sukkarxaroperia.store.app",
   "currency_symbol": "R$",
-  "primary_color": "#004aad",
+  "primary_color": "#f0f0f0",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "spacelab",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
-  "logo": "/img/uploads/id_visual_mattar_logo_200725_logo-03-7.png",
-  "name": "Mattar Recipes",
-  "short_name": "mattarrecipes",
+  "bg_color": "#f0f0f0",
+  "logo": "/img/uploads/sukkar__logo-transp-verm.png",
+  "name": "Sukkar Xaroperia",
+  "short_name": "Sukkar",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png",
+  "favicon": "/img/uploads/sukkar__logo-transp-verm.png",
   "country_code": "BR",
-  "secondary_color": "#004aad",
-  "icon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png",
+  "secondary_color": "#792222",
+  "icon": "/img/uploads/sukkar__logo-transp-verm.png",
   "store_id": 1190,
   "description": "Xaropes artesanais para um drink rápido e com mais sabor. Gengibre, limão siciliano, maracujá, jabuticaba, pitaya e muito mais. Faça você mesmo, o melhor moscow mule, gin tônica, caipirinha e vários outros coquetéis clássicos.",
-  "large_icon": "/img/uploads/id_visual_mattar_logo_200725_logo-05-13.png"
+  "large_icon": "/img/uploads/sukkar__logo-transp-verm.png"
 }
