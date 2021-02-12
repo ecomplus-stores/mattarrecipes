@@ -1,0 +1,12 @@
+{
+  "title": "Blog de Receitas Sukkar",
+  "meta_title": "Blog de Receitas de Drinks",
+  "meta_description": "Conheça algumas receitas que você pode reproduzir com nossos produtos e fazer drinks elaborados com muita praticidade.",
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ],
+  "body": "TEste.\n\n\n\nTeste.\\\n\\\ntestes"
+}
