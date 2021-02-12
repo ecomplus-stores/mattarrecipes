@@ -8,17 +8,16 @@
     "title": "Páginas",
     "list": [
       {
-        "url": "/pages/fale-conosco",
-        "text": "Fale Conosco"
-      },
-      {
         "text": "Sobre nós",
         "url": "/pages/sobre-nos"
+      },
+      {
+        "text": "Blog de Receitas"
       }
     ]
   },
   "links_2": {
-    "list_categories": false,
+    "list_categories": true,
     "title": "Categorias",
     "list": []
   },
