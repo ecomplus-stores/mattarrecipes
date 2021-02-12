@@ -50,10 +50,6 @@
       "type": "page-title",
       "title": "                                                             Sukkar Xaroperia",
       "description": "Faça seus drinks com mais praticidade usando nossos xaropes, bitters, especiarias e mais."
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
