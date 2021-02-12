@@ -12,6 +12,9 @@
         "link": "/pages/sobre-nos"
       },
       {
+        "title": "Blog de Receitas"
+      },
+      {
         "title": "Trabalhe Conosco",
         "link": "/pages/trabalhe-conosco"
       }
@@ -21,7 +24,10 @@
   },
   "categories_list": {
     "featured": [
-      "/xaropes?Xaropes"
+      "/xaropes?Xaropes",
+      "/bitter?Bitter",
+      "/especiarias?Especiarias",
+      "/kitdrink?Kit Drink"
     ],
     "random": 0,
     "full_width": true
