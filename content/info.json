@@ -5,11 +5,11 @@
   },
   "installments": {
     "show": true,
-    "text": "Aceitamos cartão, boleto ou Pix"
+    "text": "Pague com cartão, boleto ou Pix"
   },
   "exchange": {
     "show": true,
-    "text": "Garrafas Retornáveis! Devolva sua garrafa e ajude o meio ambiente."
+    "text": "Garrafas Retornáveis! Devolva sua garrafa, ajude o meio ambiente e ganhe desconto."
   },
   "promo": {
     "show": true,
