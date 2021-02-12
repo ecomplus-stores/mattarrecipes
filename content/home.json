@@ -31,6 +31,11 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "                                                             Sukkar Xaroperia",
+      "description": "Faça seus drinks com mais praticidade usando nossos xaropes, bitters, especiarias e mais."
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 6,
@@ -48,11 +53,6 @@
       "sort": "sales",
       "title": "Produtos mais vendidos por aqui",
       "headless": false
-    },
-    {
-      "type": "page-title",
-      "title": "                                                             Sukkar Xaroperia",
-      "description": "Faça seus drinks com mais praticidade usando nossos xaropes, bitters, especiarias e mais."
     }
   ]
 }
