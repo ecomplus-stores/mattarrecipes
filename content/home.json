@@ -37,15 +37,6 @@
       ]
     },
     {
-      "type": "page-title",
-      "title": "Nova loja da Mattar Recipes",
-      "description": "Compre xaropes, bitters, especiarias e mais, pagando online e recebendo em casa."
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": null,
@@ -54,6 +45,15 @@
       "sort": "sales",
       "title": "Produtos mais vendidos por aqui",
       "headless": false
+    },
+    {
+      "type": "page-title",
+      "title": "                                                             Sukkar Xaroperia",
+      "description": "Faça seus drinks com mais praticidade usando nossos xaropes, bitters, especiarias e mais."
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
