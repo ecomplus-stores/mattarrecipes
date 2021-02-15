@@ -12,15 +12,15 @@
       "enabled": true
     },
     {
+      "type": "blog",
+      "enabled": false
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 6,
       "page": 1,
       "collection_id": "600af70d69274c73fcfaf5b4:categories:Xaropes:/xaropes"
-    },
-    {
-      "type": "blog",
-      "enabled": true
     }
   ]
 }
