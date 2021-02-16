@@ -7,6 +7,14 @@
       "autoplay": 4000,
       "slides": [
         {
+          "start": "2021-02-16T21:12:51.742Z",
+          "end": "",
+          "img": "/img/uploads/capas-site-sukkar.png",
+          "link": "https://sukkarxaroperia.netlify.app/",
+          "alt": "Imagem do selo da nossa empresa.",
+          "mobile_img": "/img/uploads/capas-site-sukkar.png"
+        },
+        {
           "start": "2021-02-16T21:08:51.699Z",
           "end": "",
           "img": "/img/uploads/capas-site-sukkar.jpg",
