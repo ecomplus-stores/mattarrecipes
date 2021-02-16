@@ -5,5 +5,15 @@
   "description": "Veja as receitas de Drinks de Amora e faça bons drinks com muita simplicidade usando os nossos produtos.",
   "meta_description": "Veja as receitas de Drinks de Amora e faça bons drinks com muita simplicidade usando os nossos produtos.",
   "meta_title": "Drinks de Amora",
-  "body": "## Receitas de Amora\n\n#### Gin Tônica\n\n\\- 60 ml de gin\n\n\\- 30 ml de xarope de amora\n\n\\- 100 ml de tônica\n\n\\- 1 ramo de alecrim\n\n\n\n#### Amora Mule\n\n60 ml de vodka\n\n30 ml de xarope de amora\n\n100 ml de água com gás\n\n1 ramo de alecrim\n\n\n\n#### Blue Mojito\n\n\\- 60 ml de rum\n\n\\- 30 ml de xarope de amora\n\n\\- 100 ml de soda\n\n\\- 1 ramo de alecrim\n\n\n\n#### Caipiamora\n\n60 ml de cachaça\n\n30 ml de xarope de amora\n\n100 ml de água com gás\n\n1 ramo de alecrim"
+  "body": "## Receitas de Amora\n\n#### Gin Tônica\n\n\\- 60 ml de gin\n\n\\- 30 ml de xarope de amora\n\n\\- 100 ml de tônica\n\n\\- 1 ramo de alecrim\n\n\n\n#### Amora Mule\n\n60 ml de vodka\n\n30 ml de xarope de amora\n\n100 ml de água com gás\n\n1 ramo de alecrim\n\n\n\n#### Blue Mojito\n\n\\- 60 ml de rum\n\n\\- 30 ml de xarope de amora\n\n\\- 100 ml de soda\n\n\\- 1 ramo de alecrim\n\n\n\n#### Caipiamora\n\n60 ml de cachaça\n\n30 ml de xarope de amora\n\n100 ml de água com gás\n\n1 ramo de alecrim",
+  "sections": [
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "600af70d69274c73fcfaf5b4:categories:Xaropes:/xaropes",
+      "sort": "views"
+    }
+  ]
 }
