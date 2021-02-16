@@ -7,6 +7,14 @@
       "autoplay": 4000,
       "slides": [
         {
+          "start": "2021-02-16T21:08:51.699Z",
+          "end": "",
+          "img": "/img/uploads/capas-site-sukkar.jpg",
+          "alt": "Imagem de deck de praia com areia e conchas e a frase da campanha sobre a foto.",
+          "mobile_img": "/img/uploads/capas-site-sukkar.jpg",
+          "link": "https://sukkarxaroperia.netlify.app/kitdrink"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/2-3-.png",
