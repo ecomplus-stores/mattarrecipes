@@ -10,14 +10,14 @@
           "start": "",
           "end": "",
           "img": "/img/uploads/2-3-.png",
-          "link": "https://mattarrecipes.netlify.app/xaropes",
+          "link": "https://sukkarxaroperia.netlify.app/xaropes",
           "mobile_img": "/img/uploads/2-3-.png"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/3-3-.png",
-          "link": "https://mattarrecipes.netlify.app/xaropedetangerina",
+          "link": "https://sukkarxaroperia.netlify.app/xaropedetangerina",
           "mobile_img": "/img/uploads/3-3-.png"
         }
       ]
@@ -45,6 +45,10 @@
       "sort": "lowest_price",
       "title": "Veja essas novidades",
       "headless": false
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
