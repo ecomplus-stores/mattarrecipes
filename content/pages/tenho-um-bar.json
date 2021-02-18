@@ -1,4 +1,19 @@
 {
-  "title": "Tenho um bar",
-  "body": "Em breve."
+  "title": "Para seu bar",
+  "body": "Chega de gastar dinheiro e desperdiçar frutas! Chega de receber reclamações pela demora das suas bebidas! Chega de não ter drinks chamativos e sofisticados no seu bar!\n\nCom nossos xaropes artesanais de fruta você consegue entregar mais sabor, mais beleza, mais aroma e em menos tempo. \\\n\\\nAlém disso oferecemos um serviço de consultoria de cardápio de coquetéis e ensinamos as receitas escolhidas para o seus funcionários. Preparos simples, mas surpreendentes, qualquer um conseguirá fazer!\n\n***Condições especiais de venda para Bares e Restaurantes!***\\\n\\\nXaropes de 250ml e 500ml nos sabores:\\\n- Gengibre\\\n- Limão Siciliano\\\n- Tangerina\\\n- Pitaya\\\n- Amora\\\n- Maracujá\n\nConsulte-nos para mais informações através do nosso e-mail: sukkarxaroperia@gmail.com ou Whatsapp: (31) 99283-9499.",
+  "meta_title": "Seu Bar com Sukkar",
+  "meta_description": "Otimize os custos e preparos dos drinks do seu bar com nossos produtos!",
+  "sections": [
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "600af70d69274c73fcfaf5b4:categories:Xaropes:/xaropes"
+    }
+  ]
 }
