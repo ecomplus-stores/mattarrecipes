@@ -20,6 +20,10 @@
         "link": "/pages/fidelidade"
       },
       {
+        "title": "Clube Mensal",
+        "link": "/pages/clube"
+      },
+      {
         "title": "Trabalhe Conosco",
         "link": "/pages/trabalhe-conosco"
       }
