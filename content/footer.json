@@ -14,6 +14,14 @@
       {
         "text": "Blog de Receitas",
         "url": "/pages/blog-de-receitas-sukkar"
+      },
+      {
+        "text": "Fidelidade",
+        "url": "/pages/fidelidade"
+      },
+      {
+        "url": "/pages-clube-do-xarope",
+        "text": "Clube do Xarope"
       }
     ]
   },
