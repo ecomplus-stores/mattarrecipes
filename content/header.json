@@ -16,12 +16,12 @@
         "link": "/pages/blog-de-receitas-sukkar"
       },
       {
-        "title": "Trabalhe Conosco",
-        "link": "/pages/trabalhe-conosco"
-      },
-      {
         "title": "Fidelidade Sukkar",
         "link": "/pages/fidelidade"
+      },
+      {
+        "title": "Trabalhe Conosco",
+        "link": "/pages/trabalhe-conosco"
       }
     ],
     "phone_wpp": true,
