@@ -5,6 +5,10 @@
   "meta_description": "Otimize os custos e preparos dos drinks do seu bar com nossos produtos!",
   "sections": [
     {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
       "type": "blog",
       "enabled": true
     },
