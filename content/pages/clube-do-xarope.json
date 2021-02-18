@@ -1,9 +1,13 @@
 {
-  "title": "Clube",
+  "title": "Clube Sukkar",
   "body": "# Conheça o Clube Sukkar\n\n![](/img/uploads/capas-site-sukkar.png)\n\nFaça parte do nosso clube e receba 2 xaropes por mês na sua casa! \n\nAcompanha: Brinde extra e folheto de receitas para fazer com os 2 xaropes recebidos. \n\n* Plano Mensal 250ml: **R$29,90** (permanência mínima de 3 meses).\n* Plano Mensal 500ml: **R$44,90** (permanência mínima de 3 meses).\n\nPara mais informações entre em contato através do nosso e-mail: sukkarxaroperia@gmail.com ou do whatsapp: (31)99283-9499.",
   "meta_title": "Clube do Xarope",
   "meta_description": "Receba em casa 2 xaropoes por mês",
   "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
     {
       "type": "collection-shelf",
       "shuffle": false,
