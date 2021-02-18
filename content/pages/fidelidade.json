@@ -1,0 +1,20 @@
+{
+  "title": "Fidelidade",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "600af70d69274c73fcfaf5b4:categories:Xaropes:/xaropes",
+      "sort": "views"
+    }
+  ],
+  "body": "![](/img/uploads/capas-site-sukkar.png)\n\n**Promoção Fidelidade Sukkar**\\\n\\\n*Junte 8 Porta-copos colecionáveis e troque pelo seu Xarope preferido!*\\\n\\\nA cada pedido acima de R$30,00 que fizer você ganha 1 Porta-copo Sukkar colecionável. Ao juntar 8, é só tirar uma foto, postar no seu stories e marcar a gente. Em seguida, te enviaremos o código de desconto para você comprar seu Xarope com 100% de desconto.\\\n\\\nLegal né? Comece agora mesmo a colecionar nossos Porta-copos!",
+  "meta_title": "Fidelidade Sukkar",
+  "meta_description": "Colecione nossos Porta-copos e ganhe produtos!"
+}
