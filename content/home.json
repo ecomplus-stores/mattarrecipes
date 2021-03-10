@@ -9,10 +9,10 @@
         {
           "start": "2021-02-16T21:12:51.742Z",
           "end": "",
-          "img": "/img/uploads/capas-site-sukkar.png",
+          "img": "/img/uploads/home-site-sukkar.png",
           "link": "https://sukkarxaroperia.netlify.app/",
           "alt": "Imagem do selo da nossa empresa.",
-          "mobile_img": "/img/uploads/capas-site-sukkar.png"
+          "mobile_img": "/img/uploads/home-site-sukkar.png"
         },
         {
           "start": "2021-02-16T21:08:51.699Z",
@@ -20,21 +20,22 @@
           "img": "/img/uploads/capas-site-sukkar.jpg",
           "alt": "Imagem de deck de praia com areia e conchas e a frase da campanha sobre a foto.",
           "mobile_img": "/img/uploads/capas-site-sukkar.jpg",
-          "link": "https://sukkarxaroperia.netlify.app/kitdrink"
+          "link": "https://www.sukkarxaroperia.com.br/kitdrink"
         },
         {
           "start": "",
           "end": "",
           "img": "/img/uploads/2-3-.png",
-          "link": "https://sukkarxaroperia.netlify.app/xaropes",
+          "link": "https://www.sukkarxaroperia.com.br/xaropes",
           "mobile_img": "/img/uploads/2-3-.png"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/3-3-.png",
-          "link": "https://sukkarxaroperia.netlify.app/xaropedetangerina",
-          "mobile_img": "/img/uploads/3-3-.png"
+          "img": "/img/uploads/capas-site-sukkar.png",
+          "link": "https://www.sukkarxaroperia.com.br/posts/xarope-vanfall-2021-03-08",
+          "mobile_img": "/img/uploads/capas-site-sukkar.png",
+          "alt": "Vanfall Fizz"
         }
       ]
     },
