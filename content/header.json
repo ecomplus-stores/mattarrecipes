@@ -30,6 +30,10 @@
       {
         "title": "Trabalhe Conosco",
         "link": "/pages/trabalhe-conosco"
+      },
+      {
+        "link": "/cozinhando-com-leo-paixao",
+        "title": "Cozinhando com Léo Paixão"
       }
     ],
     "phone_wpp": true,
