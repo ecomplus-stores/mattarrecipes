@@ -1,6 +1,35 @@
 {
   "title": "Cozinhando com Paixão",
-  "body": "Faça drinks com Xarope Sukkar e Gin Yellow Bird enquanto acompanha a live com o renomado chef Léo Paixão.\n\n![Cozinha montada com computador para acompanhar a live com o chef](/img/uploads/capas-site.jpg \"Sukkar e Leo Paixão\")",
+  "body": "![Cozinha montada com computador para acompanhar a live com o chef](/img/uploads/capas-site.jpg \"Sukkar e Leo Paixão\")",
   "meta_title": "Cozinhando com Paixão",
-  "meta_description": "Faça bons drinks enquanto acompanha a live com o renomado chef Léo Paixão."
+  "meta_description": "Faça bons drinks enquanto acompanha a live com o renomado chef Léo Paixão.",
+  "sections": [
+    {
+      "type": "page-title",
+      "title": "Acompanha a Live e faça os melhores drinks para acompanhar o seu jantar."
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "offers-timer",
+      "max_hours": 24,
+      "start": "2021-03-24T20:52:50.550Z",
+      "end": "2021-03-24T20:52:50.578Z",
+      "offers": [
+        "6019930cd6981740b4a02eec"
+      ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    }
+  ]
 }
