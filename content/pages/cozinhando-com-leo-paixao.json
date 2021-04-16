@@ -1,7 +1,7 @@
 {
   "title": "Cozinhando com Paixão",
-  "body": "![Cozinha montada com computador para acompanhar a live com o chef](/img/uploads/capas-site.jpg \"Sukkar e Leo Paixão\")",
-  "meta_title": "Cozinhando com Paixão",
+  "body": "![Experimente nossos Xaropes](/img/uploads/capas-site-2-.jpg \"Reproduza nossas receitas\")",
+  "meta_title": "Experimente nossos Xaropes",
   "meta_description": "Faça bons drinks enquanto acompanha a live do renomado chef Léo Paixão.",
   "sections": [
     {
@@ -13,23 +13,16 @@
       "enabled": true
     },
     {
-      "type": "offers-timer",
-      "max_hours": 24,
-      "start": "2021-03-24T20:52:50.550Z",
-      "end": "2021-04-04T02:59:00.000Z",
-      "offers": [
-        "6019930cd6981740b4a02eec"
-      ]
+      "type": "blog",
+      "enabled": true
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "blog",
-      "enabled": true
+      "page": 1,
+      "collection_id": "600af70d69274c73fcfaf5b4:categories:Xaropes:/xaropes",
+      "sort": "lowest_price"
     }
   ]
 }
