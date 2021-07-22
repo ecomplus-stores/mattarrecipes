@@ -7,6 +7,19 @@
       "autoplay": 4000,
       "slides": [
         {
+          "start": "2021-07-22T21:35:31.623Z",
+          "end": "2022-07-22T21:35:00.000Z",
+          "img": "/img/uploads/capa-pricnipal.jpg",
+          "mobile_img": "/img/uploads/capa-pricnipal.jpg"
+        },
+        {
+          "start": "2021-07-22T21:33:36.460Z",
+          "end": "2022-07-22T21:33:00.000Z",
+          "img": "/img/uploads/capas-site-4-.png",
+          "link": "https://www.sukkarxaroperia.com.br/xarope-zero?",
+          "mobile_img": "/img/uploads/capas-site-4-.png"
+        },
+        {
           "start": "2021-02-16T21:12:51.742Z",
           "end": "",
           "img": "/img/uploads/capas-site-sukkar-2-.jpg",
@@ -29,13 +42,6 @@
           "alt": "Imagem de deck de praia com areia e conchas e a frase da campanha sobre a foto.",
           "mobile_img": "/img/uploads/capas-site-sukkar.jpg",
           "link": "https://www.sukkarxaroperia.com.br/kitdrink"
-        },
-        {
-          "start": "2021-07-22T21:33:36.460Z",
-          "end": "2022-07-22T21:33:00.000Z",
-          "img": "/img/uploads/capas-site-4-.png",
-          "link": "https://www.sukkarxaroperia.com.br/xarope-zero?",
-          "mobile_img": "/img/uploads/capas-site-4-.png"
         }
       ]
     },
