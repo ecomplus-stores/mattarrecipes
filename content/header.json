@@ -20,16 +20,8 @@
         "link": "/pages/fidelidade"
       },
       {
-        "title": "Clube do Xarope",
-        "link": "/pages/clube-do-xarope"
-      },
-      {
-        "title": "Atacado",
+        "title": "Pessoa Jurídica",
         "link": "/pages/tenho-um-bar"
-      },
-      {
-        "title": "Trabalhe Conosco",
-        "link": "/pages/trabalhe-conosco"
       }
     ],
     "phone_wpp": true,
@@ -38,10 +30,10 @@
   "categories_list": {
     "featured": [
       "/xaropes?Xaropes",
-      "/bitter?Bitter",
+      "/xarope-zero?Xarope Zero",
+      "/bitter?Bitters",
       "/especiarias?Especiarias",
-      "/kitdrink?Kit Drink",
-      "/xarope-zero?Xarope Zero"
+      "/kitdrink?Kit Drink"
     ],
     "random": 0,
     "full_width": true
