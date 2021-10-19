@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.ad313a4175ffe47736397a1f9efd618e.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4fe2198a45982efbba1ff3af5b90f29c.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.09ef1be2c2acb8a6b0013a895b48acf2.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a4998152da889d71c923c9dc82d38b44.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b87eac0916ca1413a98dbb45a2642bc2.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Sukkar Xaroperia",
+  "short_name": "Sukkar",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Leve a facilidade de preparar bons drinks para qualquer lugar e momento com nossos xaropes, bitters, sprays e sachês de especiarias.",
+  "background_color": "#ffffff",
+  "theme_color": "#792222"
+}
